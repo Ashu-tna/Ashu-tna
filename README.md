@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashitosh Jadhav</h1>
+<h1 align="center">Hi 👋 I'm Ashitosh Jadhav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47rg7s99svyskq6pnipsei944jabuf9upld9rv9mrt&rid=giphy.gif&ct=g">
